@@ -15,7 +15,6 @@ Then, download the folder algorithms-visualized.docset and open it with the docu
 + (Windows) Zeal, the alternative of Dash, is [available on github](https://github.com/jkozera/zeal).
 
 
-[available on github](https://github.com/jkozera/zeal) (the alternative of Dash)
 #### Screenshots of the docset:
 
 ####1)
