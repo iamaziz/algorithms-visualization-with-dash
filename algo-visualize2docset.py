@@ -53,7 +53,6 @@ def download_page(currentdir, page_url, page):
 
 def add_docs():
 
-  global index_page 
   root_url = 'http://www.cs.usfca.edu/~galles/visualization/Algorithms.html'
 
   # start souping index_page
