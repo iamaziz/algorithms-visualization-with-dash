@@ -13,6 +13,7 @@ Then, download the folder algorithms-visualized.docset and open it with the docu
 
 + (Mac OS) Dash is available to download for [free in the app store](https://itunes.apple.com/us/app/dash/id458034879?ls=1&mt=12).
 + (Windows) Zeal, the alternative of Dash, is [available on github](https://github.com/jkozera/zeal).
++ Originally, Dash is an API documentation browser. However, since it is so aweosme, I generalized to knowledge browser :)
 
 
 #### Screenshots of the docset:
