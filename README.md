@@ -7,13 +7,12 @@ He, kindly, made the source available under FreeBSD.<br/>
 I used the files and source code to create a docset for [Dash](http://kapeli.com/dash) to enjoy easy and searchable navigation of all the awesome animations OFFLINE.
 
 #### Download and Use:
-To use the docset, you need to install Dash (for Mac) or Zeal (for windows).<br>
-Then, download the folder algorithms-visualized.docset and open it with the documentation browser you just installed.
+To use the docset, you need to:
+  - Install a documenation browser: Dash (for Mac, [free in the app store](https://itunes.apple.com/us/app/dash/id458034879?ls=1&mt=12)) or Zeal (for windows, [available on github](https://github.com/jkozera/zeal)).<br>
+  - Download the folder `algorithms-visualized.docset` and open it with the documentation browser you just installed.
 
 
-+ (Mac OS) Dash is available to download for [free in the app store](https://itunes.apple.com/us/app/dash/id458034879?ls=1&mt=12).
-+ (Windows) Zeal, the alternative of Dash, is [available on github](https://github.com/jkozera/zeal).
-+ Originally, Dash is an API documentation browser. However, since it is so aweosme, I generalized to knowledge browser :)
+> Originally, Dash (and Zeal) is an API documentation browser and snippet manager. However, since it is so aweosme, I generalized it a bit to "knowledge browsing" :)
 
 
 #### Screenshots of the docset:
