@@ -2,7 +2,7 @@ import requests, sqlite3, os, urllib, urllib2
 from bs4 import BeautifulSoup as bs
 
 
-# CONFIGURATION
+# docset config
 docset_name = 'algorithms-visualized.docset'
 output = docset_name + '/Contents/Resources/Documents/'
 
@@ -59,13 +59,13 @@ def add_docs():
   data = requests.get(root_url).text
   soup = bs(data)
   
-  # add the title of main page to db index
+  # add the title of index_page to db index
   page_title = 'Algorithms and Data structures visualized'
   index_page = root_url.split('/')[-1]
   update_db(page_title, index_page)
 
   
-  # iterate page for filtered indecies
+  # extract href(s) and name(s) from the index_page
   for link in soup.findAll('a'):
       name = link.text.strip()
       path = link.get('href')
