@@ -9,10 +9,7 @@ I used the files and source code to create a docset for [Dash](http://kapeli.com
 #### Download and Use
 To use the docset, you need to:
   - Install a documenation browser: Dash (for Mac, [free in the app store](https://itunes.apple.com/us/app/dash/id458034879?ls=1&mt=12)) or Zeal (for Linux and Windows, [available on github](https://github.com/jkozera/zeal)).<br>
-  - Download the folder `algorithms-visualized.docset` and open it with the documentation browser you just installed.
-
-
-> Originally, Dash (and Zeal) is an API documentation browser and snippet manager. However, since it is so aweosme, I generalized it a bit to "knowledge browsing" :)
+  - Download and unzip the folder [`algorithms-visualized.tgz`](https://github.com/iamaziz/algorithms-visualization-with-dash/blob/master/Algorithms-visualized.tgz?raw=true), open it with the documentation browser you just installed, and enjoy learning and browsing.
 
 
 #### Screenshots of the docset:
