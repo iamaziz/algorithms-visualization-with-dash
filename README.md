@@ -1,5 +1,4 @@
 ### Algorithms and Data Structures Visualizations (OFFLINE browsing)
-#### "A picture is worth a thousand words" indeed!
 
 #### Description:
 [Algorithms and Data structures visualization](http://www.cs.usfca.edu/~galles/visualization/about.html) is interactive animations implemented with HTML5 / javascript and developed by [David Galles](http://www.cs.usfca.edu/~galles/visualization/contact.html).
